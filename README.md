@@ -1,0 +1,3 @@
+- 👋 Hi, Robert Herbst
+- 👀 I’m interested in software, gaming, rugby and pretty much all things geek.
+- 🌱 I’m currently learning a whole lot of different stacks for some diversity.
